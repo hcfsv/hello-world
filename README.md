@@ -1,2 +1,4 @@
 # hello-world
-1st repository created
+
+Hi Humans !
+now testing GitHub amd drinking coffee.
